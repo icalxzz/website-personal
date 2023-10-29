@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    background-color:black;
+    margin: 5mm;
+    border-radius: 5mm;
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav {
+    background-color: #3498db; /* Warna latar belakang navigasi */
+    padding: 10px;
+    text-align: center;
+    border-radius: 5mm;
+    margin-top: 1mm;
+    font-size: 5mm;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #fff; /* Warna teks tautan */
+}
+a:hover {
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 5mm;
+    margin: 5mm;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1mm;
+    padding: 3mm;
+    border: 2mm solid peachpuff;
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;   
+}
+pre{
+    text-align: justify ;
+    text-align: center;
+    margin-right: 8mm;
+    margin-left: 8mm;
+    background-color: white;
+    border-radius: 8mm;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+p{
+    text-align: justify ;
+    text-align: center;
+    margin-right: 115mm;
+    margin-left: 115mm;
+    background-color: white;
+    border-radius: 8mm;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
